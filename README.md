@@ -1,2 +1,2 @@
-# aram-boost-ui
+# Aram Boost
 Free aram boost with UI
